@@ -1,4 +1,4 @@
-## Credit_risk_resampling
+## Venture_funding
 Using data from 34,000 potential startups to decide if they will be succesful using The neural network model with 3 different parameters, and then locally saving them for later use. 
 
 ---
